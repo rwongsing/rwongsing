@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Robert! I'm a Computer Engineering student at UCSC.
-- 📫 Feel free to reach out to me at rwongsin@ucsc.edu if you have any questions or comments.
+- 👋 Hi, I’m Robert! I'm a recent graduate of Computer Engineering student from UCSC.
+- 📫 Feel free to reach out to me at robertwongsing@gmail.com if you have any questions or comments.
 
 <!---
 rwongsing/rwongsing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
